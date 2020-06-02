@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <head>
-  <title>Anonymous</title>  
 </head>
 <body>
 <h1> We Are Anonymous </h1>
